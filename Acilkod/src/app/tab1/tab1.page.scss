@@ -1,0 +1,54 @@
+.MainAlertArea {
+  padding: 1%;
+  display: flex;
+  align-items: stretch;
+  align-content: stretch;
+  gap: 15px;
+  height: 260px;
+  font-family: "Tilt Neon", sans-serif !important;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "XROT" 0,
+    "YROT" 0;
+
+}
+
+.MainAlertArea>ion-col {
+  border: 1px solid white;
+  border-radius: 20px;
+  columns: 2;
+  padding: 5%;
+}
+
+.textinvert {
+  color: #FFFFFF;
+}
+
+ion-col {
+  color: #000000;
+}
+
+.title {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.toolbar {
+  font-family: 'Alkatra', system-ui;
+  font-size: 24px !important;
+  padding: 0;
+}
+
+.elements {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 16px;
+}
+
+strong{
+  font-size: 20px;
+}

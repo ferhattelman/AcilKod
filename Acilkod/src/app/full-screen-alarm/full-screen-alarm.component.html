@@ -1,0 +1,8 @@
+<ion-content class="fullscreen-content">
+  <div class="alarm-container" [ngStyle]="{'background-color': alarmRenk, 'color': textColor}">
+    <img src="assets/collision.png" class="alarm-icon" alt="icon" />
+    <h1>{{alarmKod}} Kod</h1>
+    <p>{{alarmText}}</p>
+    <ion-button color="danger" expand="block" (click)="dismiss()">İptal</ion-button>
+  </div>
+</ion-content>

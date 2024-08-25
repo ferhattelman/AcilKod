@@ -1,0 +1,24 @@
+<ion-header [translucent]="true">
+  <ion-toolbar class="toolbar">
+    <ion-title class="title">
+      <div class="elements">
+        <strong>ENA</strong>
+        <strong>Acil Durum Bildir</strong>
+      </div>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content [fullscreen]="true">
+  <ion-grid>
+    <ion-row class="MainAlertArea">
+      <ion-col *ngFor="let item of alarmScreenData" [ngStyle]="{'background-color':item.AlarmRenk}"
+        [ngClass]="isDarkColor(item.AlarmRenk) ? 'textinvert':''"
+        (click)="btnClick(item)">
+        <p>{{item.AlarmKod}}</p>
+      </ion-col>
+
+    </ion-row>
+  </ion-grid>
+</ion-content>

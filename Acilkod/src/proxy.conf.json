@@ -1,0 +1,7 @@
+{
+    "/Alarms": {
+      "target": "http://localhost:3000/Alarms",
+      "secure": false,
+      "changeOrgin":false
+    }
+}

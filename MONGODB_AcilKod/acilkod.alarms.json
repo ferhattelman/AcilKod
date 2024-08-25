@@ -1,0 +1,275 @@
+[{
+  "_id": {
+    "$oid": "660fde98f2e75f517b15d87b"
+  },
+  "AlarmKod": "Beyaz",
+  "AlarmText": "Çalışana Saldırı",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fde98f2e75f517b15d87c"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:20:56.162Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#F7F7F7"
+},
+{
+  "_id": {
+    "$oid": "660fe00ff2e75f517b15d87f"
+  },
+  "AlarmKod": "Mavi",
+  "AlarmText": "Medikal Acil Durum",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe00ff2e75f517b15d880"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:27:11.732Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#8AADD9"
+},
+{
+  "_id": {
+    "$oid": "660fe02af2e75f517b15d882"
+  },
+  "AlarmKod": "Pembe",
+  "AlarmText": "Bebek/Çocuk Kaçırma",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe02af2e75f517b15d883"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:27:38.729Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#F6C6F7"
+},
+{
+  "_id": {
+    "$oid": "660fe056f2e75f517b15d886"
+  },
+  "AlarmKod": "Kırmızı",
+  "AlarmText": "Yangın",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe056f2e75f517b15d887"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:28:22.584Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#F60000"
+},
+{
+  "_id": {
+    "$oid": "660fe070f2e75f517b15d889"
+  },
+  "AlarmKod": "Turuncu",
+  "AlarmText": "Tehlikeli Madde Sızıntısı",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe070f2e75f517b15d88a"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:28:48.764Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#F7BA00"
+},
+{
+  "_id": {
+    "$oid": "660fe091f2e75f517b15d88c"
+  },
+  "AlarmKod": "Mor",
+  "AlarmText": "Acil Müdahala Planı Aktivasyonu",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe091f2e75f517b15d88d"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:29:21.497Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#8DCA4D"
+},
+{
+  "_id": {
+    "$oid": "660fe0d8f2e75f517b15d88f"
+  },
+  "AlarmKod": "Siyah",
+  "AlarmText": "Bomba Tehdidi",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe0d8f2e75f517b15d890"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:30:32.396Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#000000"
+},
+{
+  "_id": {
+    "$oid": "660fe0f5f2e75f517b15d892"
+  },
+  "AlarmKod": "Turkuaz",
+  "AlarmText": "Dış Toplu Yaralanma",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe0f5f2e75f517b15d893"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:31:01.212Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#00F7F7"
+},
+{
+  "_id": {
+    "$oid": "660fe140f2e75f517b15d895"
+  },
+  "AlarmKod": "Gri",
+  "AlarmText": "Saldırgan Kişi/Rehine Durumu",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe140f2e75f517b15d896"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:32:16.962Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#D0D0D0"
+},
+{
+  "_id": {
+    "$oid": "660fe15cf2e75f517b15d898"
+  },
+  "AlarmKod": "Sarı",
+  "AlarmText": "Tahliye",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe15cf2e75f517b15d899"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:32:44.551Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#F7F700"
+},
+{
+  "_id": {
+    "$oid": "660fe178f2e75f517b15d89b"
+  },
+  "AlarmKod": "Yeşil",
+  "AlarmText": "Acil Durum Sonlandırma",
+  "AlarmSound": "Normal",
+  "AlarmIcon": "https://iconduck.com/emojis/41845/collision",
+  "AlarmStatus": true,
+  "createdBy": "660c63e4aca9f6a7856faac4",
+  "createdLocationRoom": "Birinci Kat Oda 1",
+  "createdLocation": {
+    "Latitude": 2132135,
+    "Longitude": 213123,
+    "Z": 12,
+    "_id": {
+      "$oid": "660fe178f2e75f517b15d89c"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-04-05T11:33:12.742Z"
+  },
+  "__v": 0,
+  "AlarmRenk": "#8DCA4D"
+}]

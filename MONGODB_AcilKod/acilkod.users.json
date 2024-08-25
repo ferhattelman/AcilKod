@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "660c63e4aca9f6a7856faac4"
+  },
+  "name": "poyraz",
+  "email": "Poyrazdaka@gmail.com",
+  "password": "Poy20raz24",
+  "photo": "https://tr.gravatar.com/poyrazdaka",
+  "createdAt": {
+    "$date": "2024-04-02T20:00:36.733Z"
+  },
+  "__v": 0
+}]
