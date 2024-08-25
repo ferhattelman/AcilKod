@@ -1,0 +1,63 @@
+.title {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.toolbar {
+    font-family: 'Alkatra', system-ui;
+    font-size: 24px !important;
+    padding: 0;
+}
+
+.elements {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 16px;
+}
+
+strong {
+    font-size: 20px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.app-logo {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.text-container {
+    text-align: center;
+    margin-top: 10px;
+    padding: 0 20px;
+
+    h2 {
+        margin-bottom: 0;
+    }
+
+    .motto {
+        margin-top: 5px;
+        font-weight: bold;
+    }
+
+    p {
+        margin-top: 5px;
+    }
+}
+
+.signature {
+    text-align: center;
+    margin-top: 100%;
+
+    p {
+        font-style: italic;
+        color: #888;
+    }
+}
