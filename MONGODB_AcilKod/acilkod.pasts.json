@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "66ca1ca0309c5d90baf94a3d"
+  },
+  "AlarmKod": "Beyaz",
+  "AlarmRenk": "Beyaz",
+  "AlarmText": "Çalışana Saldırı",
+  "AlarmStatus": false,
+  "createdBy": "Ferhat",
+  "createdLocationRoom": "Kbb Poliklink",
+  "createdAt": {
+    "$date": "2024-08-24T17:47:12.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca49b221ce69f23d41867a"
+  },
+  "AlarmKod": "Kırmızı",
+  "AlarmRenk": "#F60000",
+  "AlarmText": "Yangın",
+  "AlarmStatus": false,
+  "createdBy": "Ferhat",
+  "createdLocationRoom": "Kbb Poliklink",
+  "createdAt": {
+    "$date": "2024-08-24T20:59:30.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca63269931d85c3f7ba2f1"
+  },
+  "AlarmKod": "Kırmızı",
+  "AlarmRenk": "#F60000",
+  "AlarmText": "Yangın",
+  "AlarmStatus": false,
+  "createdBy": "Ferhat",
+  "createdLocationRoom": "Kbb Poliklink",
+  "createdAt": {
+    "$date": "2024-08-24T22:48:06.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca65efb876087441517dc6"
+  },
+  "AlarmKod": "Mor",
+  "AlarmRenk": "#8A2BE2",
+  "AlarmText": "Acil Müdahala Planı Aktivasyonu",
+  "AlarmStatus": false,
+  "createdBy": "Ferhat",
+  "createdLocationRoom": "Kbb Poliklink",
+  "createdAt": {
+    "$date": "2024-08-24T22:59:59.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca699f2103193e330b3a72"
+  },
+  "AlarmKod": "Kırmızı",
+  "AlarmRenk": "#F60000",
+  "AlarmText": "Yangın",
+  "AlarmStatus": false,
+  "createdBy": "Ferhat",
+  "createdLocationRoom": "Kbb Poliklink",
+  "createdAt": {
+    "$date": "2024-08-24T23:15:43.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ca69df2103193e330b3a78"
+  },
+  "AlarmKod": "Siyah",
+  "AlarmRenk": "#000000",
+  "AlarmText": "Bomba Tehdidi",
+  "AlarmStatus": false,
+  "createdBy": "Ferhat",
+  "createdLocationRoom": "Kbb Poliklink",
+  "createdAt": {
+    "$date": "2024-08-24T23:16:47.938Z"
+  },
+  "__v": 0
+}]
