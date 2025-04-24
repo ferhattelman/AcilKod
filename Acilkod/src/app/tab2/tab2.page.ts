@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { PastService } from '../services/pastAlarms.services';
+import {useIsFocused} from '@react-navigation/native';
+import { useState, useEffect } from 'react';
 
 @Component({
   selector: 'app-tab2',
@@ -7,6 +9,7 @@ import { PastService } from '../services/pastAlarms.services';
   styleUrls: ['./tab2.page.scss'],
 })
 export class Tab2Page implements OnInit {
+  private isFocused= useIsFocused();
   pastAlarms: any[] = [];
 
   constructor(private pastService: PastService) {}
@@ -14,6 +17,13 @@ export class Tab2Page implements OnInit {
   ngOnInit() {
     this.loadPastAlarms();
   }
+
+  UseEffect() {
+    if(this.isFocused){
+      this.loadPastAlarms();
+    }
+  }
+
   loadPastAlarms() {
     this.pastService.getPastAlarms().subscribe(
       data => {
